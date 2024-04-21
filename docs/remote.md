@@ -1,0 +1,14 @@
+# Remote work
+
+[Disclaimer](https://deepankermishra.github.io/#disclaimer)
+
+
+There is a trend of asking employees to return to the office. Many companies that operated effectively in a remote setup are now enforcing a return to the workplace. They are monitoring entry and exit times, considering pay cuts, and even threatening layoffs. What is at the root of this?
+
+At any company, there are several functions, and not all are interesting or exciting. Many people who take up these jobs are simply looking for employment—they are not passionate about the role or interested in advancing within it. To clarify, not all, but a significant portion of these employees may find their work unengaging. After all, who enjoys filling out Excel sheets all day? Most work is mundane and trivial, existing solely because no one has revisited the job requirements as processes evolved. Many functions merely represent lingering inefficiencies within the system. However, this does not mean that the people employed in these roles are inefficient; they could likely be doing something much more impactful. I estimate that about 70% of the work in any role is of this nature. Nonetheless, some roles are more critical in the remaining 30%.
+
+Given that not all functions are equally interesting and few people are passionate enough to log in at 8 AM every day to work remotely, companies often adopt a blanket policy. It is extremely challenging to implement different policies for different types of work in a corporation without risking perceived discrimination, which can lead to employee unhappiness or dissatisfaction.
+
+Conversely, if the team is extremely small and every member is equally responsible for the company's success, the dynamics change. If all functions are somewhat balanced among the same 20-30 people, remote work can be effectively implemented. Such teams are typically geographically distributed and work in industries that are inherently asynchronous. Team members rarely have to wait on more than two people to make progress at any given time, and any changes can be quickly addressed or redone. This is particularly true for software development teams, where most decisions can be reversed without significant cost, at least on a small team scale.
+
+Thus, the feasibility of remote work is highly specific to the company and the nature of the work. If you truly wish to work remotely, there might be an upper limit on the size of the company, and it likely needs to be primarily involved in software development.
