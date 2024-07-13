@@ -2,7 +2,7 @@
 
 At the core of technological evolution lies a simple truth: most transformative trends originate from hardware innovations. This essay explores how hardware advancements have catalyzed seismic shifts in technology, spawned software trends, and occasionally rendered them obsolete, all while reshaping our financial economies.
 
-### Early hardware trends
+### Early Hardware Trends
 
 The reduction in computer size marked the dawn of the personal computer era, with Apple emerging as a pioneer in making computers accessible to the masses. This hardware shift created an opportunity for software abstraction in the form of operating systems, with Microsoft becoming the dominant player in this space. The synergy between hardware and software innovations laid the foundation for the digital revolution we experience today.
 
