@@ -5,4 +5,5 @@ This is a blog where I try to talk candidly and seek diverse opinions to challen
 
 ## Topics:
 * [Remote work](./remote.md)
-* [Hardware Trends](./hardware_trends.md)
+<!-- * [Hardware Trends](./hardware_trends.md) -->
+* [Let it be or not?](./action.md)
